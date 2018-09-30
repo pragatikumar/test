@@ -4,3 +4,4 @@ if(food=='yes'):
 	print("Raja")
 else:
 	print("Not Pizza")
+	print("Raja")
