@@ -4,3 +4,5 @@ if name=="Pragati":
 	print("pragati kumar")
 else:
 	print("bad boy")
+
+print("I want more pizza")
