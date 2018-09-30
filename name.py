@@ -6,3 +6,4 @@ else:
 	print("bad boy")
 
 print("I want more pizza")
+print("add water")
