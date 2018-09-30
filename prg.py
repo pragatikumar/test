@@ -5,3 +5,4 @@ if(food=='yes'):
 	print("coca")
 else:
 	print("Not Pizza")
+	print("No burger")
